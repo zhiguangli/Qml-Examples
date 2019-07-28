@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>controls/NavigateControls/NavigateProgressBar_1.qml</file>
+        <file>controls/NavigateControls/NavigateProgressBar_2.qml</file>
+        <file>controls/NavigateControls/NavigateProgressBar_3.qml</file>
+        <file>controls/NavigateControls/HighlightTextIndicator.qml</file>
+    </qresource>
+</RCC>

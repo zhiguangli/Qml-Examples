@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GlobalConfig.qml</file>
+        <file>QmlControls/Components/BaseComponents/DragArea.qml</file>
+        <file>QmlControls/Components/BaseComponents/MovableArea.qml</file>
+        <file>QmlControls/Components/BaseComponents/ResizeBorderArea.qml</file>
+        <file>QmlControls/Components/Pages/WindowProxyArea.qml</file>
+        <file>QmlControls/Components/BaseComponents/TextButton.qml</file>
+        <file>QmlControls/Components/BaseComponents/ImageButton.qml</file>
+        <file>QmlControls/Components/BaseComponents/ImageTextButton.qml</file>
+        <file>QmlControls/Components/Pages/TitleBar.qml</file>
+        <file>QmlControls/Components/Pages/ZAction.qml</file>
+        <file>QmlControls/Components/BaseComponents/IndicatorPopup.qml</file>
+        <file>QmlControls/Components/BaseComponents/ProgressBars/RingProgressBar.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close_64px.ico</file>
+        <file>images/double_64px.ico</file>
+        <file>images/minus_64px.ico</file>
+        <file>images/cards_48px.ico</file>
+        <file>images/close_48px.ico</file>
+        <file>images/minus_48px.ico</file>
+        <file>images/maximise_48px.ico</file>
+        <file>images/hamburger_48px.ico</file>
+        <file>images/new_48px.ico</file>
+        <file>images/settings_48px.ico</file>
+    </qresource>
+</RCC>
